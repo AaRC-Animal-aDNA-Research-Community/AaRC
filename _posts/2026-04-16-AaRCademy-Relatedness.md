@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AaRCademy: Relatedness
+title: AaRCademy - Relatedness
 categories: Events
 tags: AaRCademy, Workshops
 ---
