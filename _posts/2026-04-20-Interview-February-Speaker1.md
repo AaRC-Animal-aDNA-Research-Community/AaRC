@@ -7,6 +7,7 @@ categories: Blog
 ## February 2026
 # Dating ancient DNA under the multispecies coalescent
 *“The affinities of all the beings of the same class have sometimes been represented by a great tree. I believe this simile largely speaks the truth. The green and budding twigs may represent existing species; and those produced during each former year may represent the long succession of extinct species.”* (Charles Darwin, On the Origin of Species by Means of Natural Selection, Chapter IV, 1859).
+
 &nbsp;
 
 ## The problem of time
