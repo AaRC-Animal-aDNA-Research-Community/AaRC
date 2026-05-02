@@ -48,7 +48,7 @@ More broadly, this work brings the One Health perspective into the deep past. Re
 2. [Woolhouse, M.E.J. & Gowtage-Sequeria, S. Host range and emerging and reemerging pathogens. Emerg Infect Dis 11: 1842-1847 (2005).]
 3. [Gage, K. L. & Kosoy, M. Y. Natural history of plague: perspectives from more than a century of research. Annu Rev Entomol 50, 505–528 (2005).]
 4. [Taubenberger, J. K. The Origin and Virulence of the 1918 “Spanish” Influenza Virus. Proc Am Philos Soc 150, 86 (2006).]
-5. [Runge, A.K.W. et al. Probing the zooarchaeological record across time and space for ancient pathogen DNA. Nat Communications 17, 3469 (2026).]
+5. [Runge, A.K.W. et al. Probing the zooarchaeological record across time and space for ancient pathogen DNA. Nat Commun 17, 3469 (2026).]
 6. [Sikora, M. et al. The spatiotemporal distribution of human pathogens in ancient Eurasia. Nature 643, 1011–1019 (2025).]
 7. [Buikstra, J.E., Uhl, E.W. & Robbins Schug, G. One Paleopathology and lessons from the past. BioScience, biaf115 (2025).]
 
