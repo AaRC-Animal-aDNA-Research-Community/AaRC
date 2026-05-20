@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Steering Committee.
-categories: Blog
+categories: News
 ---
 
 With AaRC making two years on April 2026, the funding members of the Steering Committee stepped down from their positions and let the new members take charge. 
