@@ -63,13 +63,6 @@ I am a Postdoctoral Researcher at the Center for Evolutionary Hologenomics withi
 
 Contact: [emilio.sanchez@sund.ku.dk](mailto:emilio.sanchez@sund.ku.dk), [emilio.marmol.sanchez@gmail.com](mailto:emilio.marmol.sanchez@gmail.com), [Twitter](https://x.com/MarmolE6)
 
-<img src="/assets/media/ElGreen_photo.jpg" class="center" width="50%" >
-
-**Eleanor Green - Engagement Team**
-
-I am currently working as an archaeogenetics postdoctoral researcher on the RATTUS project at the University of York, England. I work in the wet and dry labs to understand the mechanisms and timings of the arrival of black and brown rats into Europe. Broadly, I am interested in researching unusual or under-utilised, substrates and species to better understand human activities the past.
-
-Contact: [eleanor.green@york.ac.uk](mailto:eleanor.green@york.ac.uk), [Twitter](https://x.com/EleJGreen) 
 
 <img src="/assets/media/Deon_photo.jpg" class="center" width="50%" >
 
