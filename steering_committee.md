@@ -18,7 +18,7 @@ We, the Steering Committee of AaRC would like to take a moment to introduce ours
 
 I am a Postdoctoral Researcher at Ludwig Maximilian University of Munich, and a Junior Research Fellow at the University of Oxford (Somerville College). I am interested in the use of ancient DNA in investigating the role that humans and the environment play in shaping global animal populations. More specifically, I am focused on unravelling the causes and consequences of millennia of interaction between humans and their closest evolutionary companion, dogs. Being a kiwi, when I’m not working, I love travelling and exploring the great outdoors.
 
-Contact: [lachlan.scarcbrook@arch.ox.ac.uk](mailto:lachiescarsbrook@gmail.com), [Bluesky]([https://x.com/LJScarsbrook](https://bsky.app/profile/lachiescarsbrook.bsky.social))
+Contact: [lachiescarsbrook@gmail.com](mailto:lachiescarsbrook@gmail.com), [Bluesky](https://bsky.app/profile/lachiescarsbrook.bsky.social)
 
 
 <img src="/assets/media/Federico_photo_FSQ.jpg" class="center" width="50%" >
