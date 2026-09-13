@@ -17,7 +17,7 @@ Pleistocene North America held a far richer set of big cats than the continent h
 
 ![Cheetah chasing](/assets/media/Blog_July_2026_MCJ_Figure.jpg "Cheetah chasing")
 
-<p><em>"A depiction of Miracinonyx trumani racing after its pray. Illustration by Velizar Simeonovski.</em></p>
+<p><em>A depiction of Miracinonyx trumani racing after its pray. Illustration by Velizar Simeonovski.</em></p>
 &nbsp;
 
 ## Cracks in the cheetah story
