@@ -53,3 +53,35 @@ The thread running through Molly's talk is a caution about analogy. We picture e
 [Cassatt-Johnstone, M. et al. Range and diet diversity in the Pleistocene American “cheetah,” *Miracinonyx trumani*. Curr Biol S0960-9822(26)01003-1 (2026).]:https://www.sciencedirect.com/science/article/pii/S0960982226010031
 [Van Valkenburgh, B., Grady, F. & Kurtén, B. The Plio-Pleistocene cheetah-like cat Miracinonyx inexpectatus of North America. J Vertebr Paleontol 10, 434–454 (1990).]:https://www.tandfonline.com/doi/abs/10.1080/02724634.1990.10011827
 
+&nbsp;
+
+Below, Molly shared with us further details about her profile, career, prospects and future projects:
+&nbsp;
+
+**1. Briefly introduce yourself. What is your origin story for how you got into science?** <br>
+I did my undergraduate degree in Cognitive Science, thinking I would perhaps pursue clinical research or work in science communication and education. However, my final quarter of my undergraduate degree I took a field course with Dr. Beth Shapiro that reshaped my career intentions. The course led to a summer internship in her lab, which conveniently helped me sort out what it meant to be a college graduate and start a career. I had no prior experience with molecular biology, aside from general intro biology classes, so the internship was a very steep learning curve. I realized I loved the challenge of learning all this new science in a very applied manner. I was subsequently offered a full-time technician position where I could continue to build the foundational knowledge I had been missing in molecular biology while exploring how this information can be used to answer evolutionary questions. I’d always thought I liked ecology, but during that internship I realized the questions I was interested in were actually all evolutionary.
+&nbsp;
+
+**2. How and/or why did you start working on this project?** <br>
+This project was actually started with three fossils from the Yukon, Canada that had been sent to Dr. Shapiro’s lab as part of a different student’s dissertation project. The fossils were originally identified as pumas, all dated to around 30,000 years ago. These samples would have been paramount for understanding the evolutionary history of pumas in North America, as they predate the coalescent time of all North American puma lineages. However, when we first screened the samples and realized they sat far outside any known puma mitochondrial diversity, the PhD student whose project it had been didn’t have the time to take this on, so I was lucky enough to get handed this as a project and got to see it through from the first surprising result to the end, and the results have finally been published!
+&nbsp;
+
+**3. Were there any major challenges in this project? How did you overcome them?** <br>
+Definitely. For the first several years, we only had the Yukon samples, and while confirming they represented something far outside known puma diversity was exciting, I struggled with how to build that into a compelling scientific story. It was easy enough to generate nuclear genomic data and document a range extension into Beringia, but for a while, the narrative gap was the biggest obstacle. I had an interesting discovery without a clear sense of the larger story it was telling. Thankfully, that changed when we gained access to the Natural Trap Cave samples. Having a second population to compare against transformed the project, where instead of describing one isolated, unusual specimen, I could start asking comparative questions, which really helped to frame the manuscript into what I think is a much more compelling paper.
+&nbsp;
+
+**4. What do you think are the main take-home messages of this project?** <br>
+The take-home message for me was that Miracinonyx trumani wasn't behaving as a single predator across its range; instead, we see evidence in Beringia that they were using a strikingly different ecological strategy than we'd expect from a cursorial, cheetah-like hunter. We see this kind of ecological flexibility constantly in modern carnivores but it's easy, at least for me, to forget that extinct species were capable of the same behavioral and ecological plasticity. There's a natural tendency to flatten extinct animals into a single fixed caricature, in part because the fossil record so often gives us just one snapshot to work with. This project was a reminder that we owe extinct species the same dynamism and variability we readily accept in extant species. That's also why multi-proxy approaches and strong collaborations are so important. A single data type will always struggle to capture the total complexity of an organism, living or extinct.
+&nbsp;
+
+**5. What do you think is missing in the field that you would like to work on?** <br>
+What a big question! I think we’re seeing a lot more temporal genomics recently, using historical or museum specimens to add in a pre-Anthropocene baseline to conservation genomics studies. I also think temporal sampling has real, underused potential to reduce the burden we place on wild and threatened populations. I’m excited to work within that sector, answering conservation questions while minimizing invasive approaches. As wet lab and sequencing costs continue to drop, figuring out how to further reduce the cost, both in resources and in harm to wild populations, is something I think is very valuable to the field.
+&nbsp;
+
+**6. Where do you see yourself in the near future?** <br>
+I’m working toward finishing my PhD, so the future I’m envisioning is a little uncertain! I am trying to envision having a very stress-free and completely relaxed defense, and then starting the next adventure, whatever that may be! I definitely see a lot of applications in my future, so I’m very open to anyone who’s interested in collaborating or furthering opportunities!
+&nbsp;
+
+**7. Free space to tell something you would like to remark.** <br>
+Thanks so much for having me! Excited to be a part of this community!
+
