@@ -38,3 +38,18 @@ The thread running through Molly's talk is a caution about analogy. We picture e
 &nbsp;
 
 ## References
+1.	[Adams, D. B. The cheetah: Native American. Science (1979). 205, 1155–1158 (1979).]
+2.	[Figueirido, B. et al. Elbow-joint morphology in the North American ‘cheetah-like’ cat *Miracinonyx trumani*. Biol Lett 19, (2023).]
+3.	[Dunn, R. H., Cooper, C., Lemert, J., Mironov, N. & Meachen, J. A. Locomotor correlates of the scapholunar of living and extinct carnivorans. J Morphol 280, 1197–1206 (2019).]
+4.	[Barnett, R. et al. Evolution of the extinct Sabretooths and the American cheetah-like cat. Curr Biol 15, (2005).]
+5.	[Cassatt-Johnstone, M. et al. Range and diet diversity in the Pleistocene American “cheetah,” *Miracinonyx trumani*. Curr Biol S0960-9822(26)01003-1 (2026).]
+6.	[Van Valkenburgh, B., Grady, F. & Kurtén, B. The Plio-Pleistocene cheetah-like cat Miracinonyx inexpectatus of North America. J Vertebr Paleontol 10, 434–454 (1990).]
+
+
+[Adams, D. B. The cheetah: Native American. Science (1979). 205, 1155–1158 (1979).]:https://www.science.org/doi/10.1126/science.205.4411.1155
+[Figueirido, B. et al. Elbow-joint morphology in the North American ‘cheetah-like’ cat *Miracinonyx trumani*. Biol Lett 19, (2023).]:https://royalsocietypublishing.org/rsbl/article/19/1/20220483/88047/Elbow-joint-morphology-in-the-North-American
+[Dunn, R. H., Cooper, C., Lemert, J., Mironov, N. & Meachen, J. A. Locomotor correlates of the scapholunar of living and extinct carnivorans. J Morphol 280, 1197–1206 (2019).]:https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.21024
+[Barnett, R. et al. Evolution of the extinct Sabretooths and the American cheetah-like cat. Curr Biol 15, (2005).]:https://www.cell.com/current-biology/fulltext/S0960-9822(05)00836-5
+[Cassatt-Johnstone, M. et al. Range and diet diversity in the Pleistocene American “cheetah,” *Miracinonyx trumani*. Curr Biol S0960-9822(26)01003-1 (2026).]:https://www.sciencedirect.com/science/article/pii/S0960982226010031
+[Van Valkenburgh, B., Grady, F. & Kurtén, B. The Plio-Pleistocene cheetah-like cat Miracinonyx inexpectatus of North America. J Vertebr Paleontol 10, 434–454 (1990).]:https://www.tandfonline.com/doi/abs/10.1080/02724634.1990.10011827
+
