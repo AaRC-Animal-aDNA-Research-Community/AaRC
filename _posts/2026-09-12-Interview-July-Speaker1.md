@@ -6,7 +6,7 @@ categories: Blog
 
 ## July 2026
 # The true life of the American cheetah
-*"For animals belonging to two most distinct lines of descent, may readily become adapted to similar conditions, and thus assume a close external resemblance; but such resemblances will not reveal, will rather tend to conceal their blood-relationship to their proper lines of descent." (Charles Darwin, On the Origin of Species, 1859).
+*"For animals belonging to two most distinct lines of descent, may readily become adapted to similar conditions, and thus assume a close external resemblance; but such resemblances will not reveal, will rather tend to conceal their blood-relationship to their proper lines of descent."* (Charles Darwin, On the Origin of Species, 1859).
 
 &nbsp;
 
