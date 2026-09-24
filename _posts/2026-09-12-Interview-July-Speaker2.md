@@ -15,6 +15,11 @@ The lion was once among the most widespread large carnivores on Earth, ranging f
 
 &nbsp;
 
+![Lions drinking](/assets/media/Blog_July_2026_MC_Figure.jpg "Lions drinking")
+
+<p><em>African lions drinking in a pond. Photo by Connor Mallon, Smithsonian's National Zoo.</em></p>
+&nbsp;
+
 ## Bones and skins that carry a genome
 Our AaRC speaker, Dr. Michael Campana and his team made use of one such window in a direct way [**3**]. During the Smithsonian-Roosevelt East African Expedition of 1909 to 1911 and the Rainey Expedition of 1911 to 1912, thousands of lion specimens were collected from what is now Kenya and neighboring regions, and many of these have sat in the collections of the National Museum of Natural History ever since. The team sampled still attached soft tissue and previously damaged bone from these specimens.
 In doing so, the authors managed to generate whole-genome data from 45 historical Kenyan lions from the Roosevelt and Rainey collections, added newly sequenced genomes from 94 recent Kenyan and Tanzanian lions, and combined everything with all publicly available East African sequence data. The final dataset came to 100 recent genomes, mostly from 1985 to 1999, and 102 historical genomes spanning 1896 to 1946. However, working with material this degraded is never clean or overly efficient, resulting in most historical genomes being sequenced at very low depth. To circumvent this, the team led by Dr. Campana leaned on genotype-likelihood methods rather than hard genotype calls.
