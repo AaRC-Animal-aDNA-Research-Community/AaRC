@@ -41,3 +41,55 @@ Perhaps the most striking result is demographic. When the authors reconstructed 
 Reading genomes from lions shot more than a century ago, then laying them directly against lions alive today, is an experiment that no amount of modern sampling could reproduce on its own. Modern populations carry the fingerprints of twentieth-century management, the fences, the culls, the relocations between reserves… so diversity estimates measured now can quietly mislead us about what is natural and what is recent damage. The Roosevelt and Rainey specimens predate almost all of that, and they are a baseline collected before modern interventions rearranged the whole lion’s habitat.
 By showing that early twentieth-century East African populations were more connected than they are now, the research led by Dr. Campana is a reminder that current translocations that move animals between isolated groups are unlikely to be harmful, and may help rebuild the gene flow that once existed naturally [**7**]. More than that, museum collections assembled for reasons that have nothing to do with genomics, in this case a former president’s hunting expedition, can become some of our most powerful instruments for measuring how much has changed in relatively few years to better inform what to do next about it.
 
+&nbsp;
+
+## References
+1.	[Bauer, H. et al. Lion (*Panthera leo*) populations are declining rapidly across Africa, except in intensively managed areas. Proc Natl Acad Sci USA. 112, 14894–14899 (2015).]
+2.	[Nicholson, S. K. et al. Socio-political and ecological fragility of threatened, free-ranging African lion populations. Commun Earth Environ 4, 302 (2023).]
+3.	[Armstrong, E. E. et al. President Roosevelt’s lions reveal a century of population fragmentation in Africa’s largest carnivore. bioRxiv 2025.02.26.640359 (2025).]
+4.	[Dubach, J. et al. Molecular genetic variation across the southern and eastern geographic ranges of the African lion, *Panthera leo*. Conservation Genetics 6, 15–24 (2005).]
+5.	[Curry, C. J. et al. Spatiotemporal Genetic Diversity of Lions Reveals the Influence of Habitat Fragmentation across Africa. Mol Biol Evol 38, 48–57 (2021).]
+6.	[Sunseri, T. The African Rinderpest Panzootic, 1888–1897. Oxford Research Encyclopedia of African History (2018).]
+7.	[Bertola, L. D. et al. Genetic guidelines for translocations: Maintaining intraspecific diversity in the lion (*Panthera leo*). Evol Appl 15, 22–39 (2022).]
+
+
+[Bauer, H. et al. Lion (*Panthera leo*) populations are declining rapidly across Africa, except in intensively managed areas. Proc Natl Acad Sci USA. 112, 14894–14899 (2015).]:https://www.pnas.org/doi/10.1073/pnas.1500664112
+[Nicholson, S. K. et al. Socio-political and ecological fragility of threatened, free-ranging African lion populations. Commun Earth Environ 4, 302 (2023).]:https://www.nature.com/articles/s43247-023-00959-3
+[Armstrong, E. E. et al. President Roosevelt’s lions reveal a century of population fragmentation in Africa’s largest carnivore. bioRxiv 2025.02.26.640359 (2025).]:https://www.biorxiv.org/content/10.1101/2025.02.26.640359v1
+[Dubach, J. et al. Molecular genetic variation across the southern and eastern geographic ranges of the African lion, *Panthera leo*. Conservation Genetics 6, 15–24 (2005).]:https://link.springer.com/article/10.1007/s10592-004-7729-6
+[Curry, C. J. et al. Spatiotemporal Genetic Diversity of Lions Reveals the Influence of Habitat Fragmentation across Africa. Mol Biol Evol 38, 48–57 (2021).]:https://academic.oup.com/mbe/article/38/1/48/5871931
+[Sunseri, T. The African Rinderpest Panzootic, 1888–1897. Oxford Research Encyclopedia of African History (2018).]:https://academic.oup.com/edited-volume/61663/chapter-abstract/553450173
+[Bertola, L. D. et al. Genetic guidelines for translocations: Maintaining intraspecific diversity in the lion (*Panthera leo*). Evol Appl 15, 22–39 (2022).]:https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13318
+
+&nbsp;
+
+Below, Michael shared with us further details about his profile, career, prospects and future projects:
+&nbsp;
+
+**1. Briefly introduce yourself. What is your origin story for how you got into science?** <br>
+I am a conservation genomicist at the Smithsonian’s National Zoo and Conservation Biology Institute. My primary areas of expertise include ancient and non-invasive DNA analyses, bioinformatics, and computational genomics. I have wanted to be a scientist since I was a small child fascinated by dinosaurs. While earning my undergraduate degree in palaeontology, I became interested in ancient DNA analyses and my research career developed from there.
+&nbsp;
+
+**2.	How and/or why did you start working on this project?** <br>
+I am the quintessential “cat person”. In 2014, I was recruited to work on the Roosevelt Resurvey project being led by Kris Helgen and Rob Fleischer. The opportunity to work on big cats fulfilled a life-long research dream.
+&nbsp;
+
+**3.	Were there any major challenges in this project? How did you overcome them?** <br>
+The first challenge was obtaining sufficient sequence data from the museum specimens for analysis. We started the project well before the advent of cost- effective and time-efficient single-stranded library protocol development. Initially, we were planning on using hybridization capture, but we changed our approach at the urging of Ellie Armstrong (then a PhD student at Stanford University). We upgraded our library preparation protocols over time to accommodate the low-coverage whole genome approach. The second major challenge was limited reference data and genomic parameterization for lions (and big cats in general). We solved the latter problem by generating these data ourselves.
+&nbsp;
+
+**4.	What do you think are the main take-home messages of this project?** <br>
+Analysis of museum specimens is indispensable for effective conservation actions. The genomic patterns observed using only extant samples often give a very misleading picture of what lion diversity “should” look like. Secondly, analysis of non-model organisms (especially non-humans) is surprisingly challenging due to limited genomic resources, even for iconic species such as lions.
+&nbsp;
+
+**5.	What do you think is missing in the field that you would like to work on?** <br>
+The translation of ancient-DNA-based conservation recommendations to effective conservation practice remains limited. Implementing effective conservation is much more challenging than the basic science at this point. Part of the issue is that the basic science is still monopolized by the Global North. To address this, I am helping build conservation genomics capacity in range countries.
+&nbsp;
+
+**6.	Where do you see yourself in the near future?** <br>
+I am planning on continuing my conservation genomics work on a wide range of organisms, including bears, Hawaiian birds, invasive pathogens, dholes, and big cats (among others). One of the best things about working at the zoo is the diversity of projects I get!
+&nbsp;
+
+**7.	Free space to tell something you would like to remark.** <br>
+I never would have predicted the direction my research career would take, even as a graduate student studying ancient DNA. I advise early-career researchers to keep their aspirations open and be willing to adapt to opportunities as they become available.
+
