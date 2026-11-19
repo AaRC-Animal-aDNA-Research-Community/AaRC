@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview to our July AaRCTikTalks speaker
+title: Interview to our July AaRCTikTalks speaker Áine Halpin
 categories: Blog
 ---
 
