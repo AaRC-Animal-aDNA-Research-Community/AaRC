@@ -12,6 +12,14 @@ categories: Blog
 
 ## Farming takes two roads into Europe
 Sheep and goats were among the first animals domesticated in southwest Asia, with goat management already under way in the Zagros Mountains some 10,000 years ago [**1,2**]. From there, farming reached Europe along two broad routes. One ran inland along the Danube and moved slowly. The other followed the northern Mediterranean coast and moved remarkably fast, a speed that archaeologists and geneticists have linked to people travelling by boat [**3,4**]. A fast, seaborne expansion raises an obvious question for anyone working on domestic animal evolution. How many animals can you fit in a Neolithic boat? If early farmers carried only small herds, their livestock should carry the genetic signature of a founder event where few animals initiated subsequent population expansions [**5**].
+
+&nbsp;
+
+![Sheep herd](/assets/media/Blog_September_2026_AH_Figure.jpg "Sheep herd")
+
+<p><em>A sheep herd grazing near Revivim at the Negev desert. Photo via Wikimedia Commons, CC BY-SA 4.0.</em></p>
+&nbsp;
+
 In her AaRCTikTalk, Áine Halpin showed how these routes shaped the genetic diversity of Neolithic sheep and goats during their expansion across Europe. To do so, she generated new palaeogenomes from early Neolithic sheep and goats at two sites in northeast Iberia, the lakeside settlement of La Draga and the cave of Cova de l'Avellaner, both dated to roughly 5,300 to 4,700 cal BCE. Further genomes came from Le Taï in southern France, Santa Verna in Malta and Sarakenos Cave in Greece.
 In total, Áine and her collaborators added 16 new genomes (6 goats and 10 sheep) and analysed them together with published data from about 99 ancient goats and 121 ancient sheep. As is often the case with ancient material, coverage was low and uneven, from 0.17× to 11.21× with a median of 1.38×. Rather than limit the analyses to the few well-covered genomes, the authors imputed genotypes with GLIMPSE, which allowed haplotype-based methods such as calculating runs of homozygosity (ROH) and identity-by-descent (IBD) sharing [**6**]. As Áine explained, to her knowledge this was the first time imputation has been tested in ancient sheep.
 &nbsp;
