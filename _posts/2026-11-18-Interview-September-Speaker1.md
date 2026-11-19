@@ -72,10 +72,6 @@ For many of us, especially those working on non-model or extinct animals, the bo
 [Jónsson H, Ginolhac A, Schubert M et al.  mapDamage2.0: fast approximate Bayesian estimates of ancient DNA damage parameters. Bioinformatics 29: 1682–4 (2013).]:https://doi.org/10.1093/bioinformatics/btt193
 [Sharif B, Hedfors K, van der Valk T, Heintzman PD, Dalén L. G-ALN: a GPU-accelerated BWA-aln algorithm for palaeogenomics. bioRxiv. 10.64898/2026.10.18.759956 (2026).]:https://www.biorxiv.org/content/10.64898/2026.10.18.759956v1
 
-
-
-
-
 &nbsp;
 
 Below, Bilal shared with us further details about his profile, career, prospects and future projects:
