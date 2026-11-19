@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview to our July AaRCTikTalks speaker Bilal Sharif
+title: Interview to our September AaRCTikTalks speaker Bilal Sharif
 categories: Blog
 ---
 
